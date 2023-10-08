@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { motion } from "framer-motion";
 import { quotes } from "../assets";
 import { showUp } from "../animations.js";

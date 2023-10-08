@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const Button = ({ styles }) => (
   <button
     type="button"

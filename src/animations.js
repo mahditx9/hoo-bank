@@ -1,5 +1,3 @@
-import { stagger } from "framer-motion";
-
 const translateYPos = {
   hidden: { translateY: 100, opacity: 0 },
   visible: {

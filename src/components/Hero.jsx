@@ -6,7 +6,6 @@ import {
   translateYPos,
   translateXVariants,
   translateXLeft,
-  translateXRight,
 } from "../animations.js";
 // import { useState } from "react";
 
